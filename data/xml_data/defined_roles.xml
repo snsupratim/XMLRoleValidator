@@ -5,8 +5,9 @@
     <role>QA Tester</role>
     <role>Business Analyst</role>
     <role>Data Scientist</role>
-    <!-- <role>Agile Coach</role>
+    <role>Agile Coach</role>
     <role>Marketing Lead</role>
     <role>Operations Specialist</role>
-    <role>Product Owner</role> -->
+    <role>Product Owner</role>
+    <role>Product Manager</role>
 </roles>
